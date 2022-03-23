@@ -1,0 +1,22 @@
+name: spectripy-dev
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base >= 4.1
+  - r-devtools
+  - r-biocmanager
+  - r-languageserver
+  - r-testthat
+  - r-patrick
+  - radian
+  - r-rmarkdown
+  - bioconductor-spectra
+  - bioconductor-basilisk
+  - r-reticulate
+  - bioconductor-iranges
+  - bioconductor-biocparallel
+  - bioconductor-S4Vectors
+  - r-knitr
+  - bioconductor-biocstyle

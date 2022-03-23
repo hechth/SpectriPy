@@ -7,3 +7,4 @@ local_data/*
 .travis.yml
 ^\.github$
 _pkgdown.yml
+^conda
